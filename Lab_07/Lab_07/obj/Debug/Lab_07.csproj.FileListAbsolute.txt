@@ -1,0 +1,8 @@
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\bin\Debug\Lab_07.exe.config
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\bin\Debug\Lab_07.exe
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\bin\Debug\Lab_07.pdb
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\obj\Debug\Lab_07.Form1.resources
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\obj\Debug\Lab_07.Properties.Resources.resources
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\obj\Debug\Lab_07.csproj.GenerateResource.Cache
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\obj\Debug\Lab_07.exe
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_07\Lab_07\obj\Debug\Lab_07.pdb
