@@ -1,0 +1,9 @@
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\bin\Debug\Lab_02.exe.config
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\bin\Debug\Lab_02.exe
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\bin\Debug\Lab_02.pdb
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.csprojResolveAssemblyReference.cache
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.Form1.resources
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.Properties.Resources.resources
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.csproj.GenerateResource.Cache
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.exe
+D:\Литература\Программирование\5 сем\Types-and-Data-Structuches\Lab_02\Lab_02\obj\Debug\Lab_02.pdb
